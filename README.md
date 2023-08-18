@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Arnab Sengupta</h1>
 <h3 align="center">🚀 Exploring the Digital Frontier | B.Tech Computer Science Engineering Student 🎓 | Coding, Creating, and Innovating 💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asengupta07" alt="asengupta07" /></a> </p>
-
 - 🌱 I’m currently learning **Python, WebDev, Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/asengupta07](https://github.com/asengupta07)
