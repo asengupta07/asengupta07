@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arnab Sengupta</h1>
-<h3 align="center">A passionate Computer Science student from India.</h3>
+<h1 align="center">Hey 👋, I'm Arnab Sengupta</h1>
+<h3 align="center">🚀 Exploring the Digital Frontier | B.Tech Computer Science Engineering Student 🎓 | Coding, Creating, and Innovating 💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asengupta07" alt="asengupta07" /></a> </p>
 
