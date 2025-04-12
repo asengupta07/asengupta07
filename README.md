@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnab Sengupta</h1>
 <h3 align="center">🚀 Exploring the Digital Frontier | B.Tech Computer Science Engineering Student 🎓 | Coding, Creating, and Innovating 💻</h3>
 
-- 🌱 I’m currently learning **AI Safety**
+- 🌱 I’m currently building **AI Agents (Infra/Utility/Game) Apps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/asengupta07](https://github.com/asengupta07)
 
